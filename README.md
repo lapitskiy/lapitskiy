@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lapitskiy
 - 👀 I’m interested in python
 - 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me telegram @jopaboga
 
 <!---
 lapitskiy/lapitskiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
