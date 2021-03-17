@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lapitskiy
+- 👋 Hi, I’m Egor
 - 👀 I’m interested in python
 - 🌱 I’m currently learning django
 - 📫 How to reach me telegram @jopaboga
