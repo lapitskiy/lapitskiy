@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Egor
 - 👀 I’m interested in python
-- 🌱 I’m currently learning django
+- 🌱 I’m currently write crm on django
 - 📫 How to reach me telegram @jopaboga
 
 <!---
