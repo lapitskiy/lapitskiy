@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Egor
 - 👀 I’m interested in python
 - 🌱 I’m currently write crm on django
-- 📫 How to reach me telegram @jopaboga
+- 📫 How to reach me telegram @lap1tsky
 
 <!---
 lapitskiy/lapitskiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
