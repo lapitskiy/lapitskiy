@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Egor
 - 👀 I’m interested in python
-- 🌱 I’m currently write crm on django
+- 🌱 Crm, lst, dqn, telegram bot, crypto
 - 📫 How to reach me telegram @lap1tsky
 
 <!---
